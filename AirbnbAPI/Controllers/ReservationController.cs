@@ -35,11 +35,19 @@ namespace Airbnb.API.Controllers
 
                 var reservedDays = _reservationManager.NotAvailableDays(addReservation.PropertyId);
 
+                if ((addReservation.CheckInDate < DateTime.Now) || (addReservation.CheckOutDate < DateTime.Now) || (addReservation.CheckOutDate < addReservation.CheckInDate))
+                    return BadRequest(new
+                    {
+                        Message = "The Date is Invalid."
+                    });
+
                 if (reservedDays.Any((d => d.Date == addReservation.CheckInDate.Date)) || reservedDays.Any((r => r.Date == addReservation.CheckOutDate.Date)))
                     return BadRequest(new
                     {
                         Message = "Couldn't Add The Reservation. There is another Reservation At That Time."
                     });
+
+
 
                 var state = await _reservationManager.Add(addReservation);
 
