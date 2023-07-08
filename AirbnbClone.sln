@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AirbnbBL", "AirbnbBL\AirbnbBL.csproj", "{DF075DBC-C090-4C36-89D7-DFA27F43BD42}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AirbnbDAL", "AirbnbDAL\AirbnbDAL.csproj", "{8AE91F8A-20B2-4FA5-BCBA-AE2A626BB269}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airbnb.API", "AirbnbAPI\Airbnb.API.csproj", "{F5B0B740-D00A-4D20-B736-443A96322763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF075DBC-C090-4C36-89D7-DFA27F43BD42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF075DBC-C090-4C36-89D7-DFA27F43BD42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF075DBC-C090-4C36-89D7-DFA27F43BD42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF075DBC-C090-4C36-89D7-DFA27F43BD42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AE91F8A-20B2-4FA5-BCBA-AE2A626BB269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE91F8A-20B2-4FA5-BCBA-AE2A626BB269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE91F8A-20B2-4FA5-BCBA-AE2A626BB269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE91F8A-20B2-4FA5-BCBA-AE2A626BB269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5B0B740-D00A-4D20-B736-443A96322763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B0B740-D00A-4D20-B736-443A96322763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B0B740-D00A-4D20-B736-443A96322763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B0B740-D00A-4D20-B736-443A96322763}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EC0D58D-71DE-4B95-A2A3-B1820CFF182B}
+	EndGlobalSection
+EndGlobal

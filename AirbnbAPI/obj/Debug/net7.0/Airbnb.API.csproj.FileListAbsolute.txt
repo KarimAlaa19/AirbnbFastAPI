@@ -1,0 +1,968 @@
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\appsettings.Development.json
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\appsettings.json
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.exe
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.deps.json
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.runtimeconfig.json
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.pdb
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Azure.Core.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Azure.Identity.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Humanizer.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\System.CodeDom.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\AirbnbBL.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\AirbnbDAL.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\AirbnbBL.pdb
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\bin\Debug\net7.0\AirbnbDAL.pdb
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.AssemblyReference.cache
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.AssemblyInfoInputs.cache
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.AssemblyInfo.cs
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.CoreCompileInputs.cache
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.Airbnb.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.Airbnb.API.props
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Airbnb.API.props
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Airbnb.API.props
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\obj\Debug\net7.0\staticwebassets.build.json
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\obj\Debug\net7.0\staticwebassets.development.json
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\obj\Debug\net7.0\scopedcss\bundle\Airbnb.API.styles.css
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.CopyComplete
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\obj\Debug\net7.0\refint\Airbnb.API.dll
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.pdb
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.genruntimeconfig.cache
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\obj\Debug\net7.0\ref\Airbnb.API.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.exe
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.deps.json
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.runtimeconfig.json
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.pdb
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\AirbnbBL.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\AirbnbDAL.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\AirbnbBL.pdb
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\AirbnbDAL.pdb
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.AssemblyReference.cache
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.AssemblyInfoInputs.cache
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.AssemblyInfo.cs
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.CoreCompileInputs.cache
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.Airbnb.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.Airbnb.API.props
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Airbnb.API.props
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Airbnb.API.props
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\scopedcss\bundle\Airbnb.API.styles.css
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.CopyComplete
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\refint\Airbnb.API.dll
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.pdb
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.genruntimeconfig.cache
+C:\Users\Karim\Downloads\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\ref\Airbnb.API.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\appsettings.Development.json
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\appsettings.json
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.exe
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.deps.json
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.runtimeconfig.json
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.pdb
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Azure.Core.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Azure.Identity.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Humanizer.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.CodeDom.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\AirbnbBL.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\AirbnbDAL.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\AirbnbBL.pdb
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\AirbnbDAL.pdb
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.AssemblyReference.cache
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.AssemblyInfoInputs.cache
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.AssemblyInfo.cs
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.CoreCompileInputs.cache
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.Airbnb.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.Airbnb.API.props
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Airbnb.API.props
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Airbnb.API.props
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets.build.json
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets.development.json
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\scopedcss\bundle\Airbnb.API.styles.css
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.CopyComplete
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\refint\Airbnb.API.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.pdb
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.genruntimeconfig.cache
+E:\Trainings\Projects\ON_Projects\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\ref\Airbnb.API.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.exe
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.deps.json
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.runtimeconfig.json
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.pdb
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\AirbnbBL.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\AirbnbDAL.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\AirbnbBL.pdb
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\AirbnbDAL.pdb
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.AssemblyReference.cache
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.AssemblyInfoInputs.cache
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.AssemblyInfo.cs
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.CoreCompileInputs.cache
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.Airbnb.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.Airbnb.API.props
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Airbnb.API.props
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Airbnb.API.props
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\scopedcss\bundle\Airbnb.API.styles.css
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.CopyComplete
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\refint\Airbnb.API.dll
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.pdb
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.genruntimeconfig.cache
+C:\Users\AIT\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\ref\Airbnb.API.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.AssemblyReference.cache
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.AssemblyInfoInputs.cache
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.AssemblyInfo.cs
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.CoreCompileInputs.cache
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\refint\Airbnb.API.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.pdb
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.exe
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.deps.json
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.runtimeconfig.json
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.pdb
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\AirbnbBL.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\AirbnbDAL.dll
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\AirbnbBL.pdb
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\AirbnbDAL.pdb
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.Airbnb.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.Airbnb.API.props
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Airbnb.API.props
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Airbnb.API.props
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\scopedcss\bundle\Airbnb.API.styles.css
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.CopyComplete
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.genruntimeconfig.cache
+C:\Users\PC User\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\ref\Airbnb.API.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.exe
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.deps.json
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.runtimeconfig.json
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.pdb
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\AirbnbBL.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\AirbnbDAL.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\AirbnbBL.pdb
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\AirbnbDAL.pdb
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.AssemblyReference.cache
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.AssemblyInfoInputs.cache
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.AssemblyInfo.cs
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.CoreCompileInputs.cache
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.Airbnb.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.Airbnb.API.props
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Airbnb.API.props
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Airbnb.API.props
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\scopedcss\bundle\Airbnb.API.styles.css
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.CopyComplete
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\refint\Airbnb.API.dll
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.pdb
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.genruntimeconfig.cache
+C:\Users\Karim\Downloads\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\ref\Airbnb.API.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\appsettings.Development.json
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\appsettings.json
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.exe
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.deps.json
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.runtimeconfig.json
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.pdb
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Azure.Core.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Azure.Identity.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Humanizer.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\System.CodeDom.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\AirbnbBL.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\AirbnbDAL.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\AirbnbBL.pdb
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\bin\Debug\net7.0\AirbnbDAL.pdb
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.AssemblyReference.cache
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.AssemblyInfoInputs.cache
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.AssemblyInfo.cs
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.CoreCompileInputs.cache
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.Airbnb.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.Airbnb.API.props
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Airbnb.API.props
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Airbnb.API.props
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\staticwebassets.build.json
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\staticwebassets.development.json
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\scopedcss\bundle\Airbnb.API.styles.css
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.CopyComplete
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\refint\Airbnb.API.dll
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.pdb
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.genruntimeconfig.cache
+E:\Trainings\Projects\ON_Projects\AirbnbClone-main\AirbnbAPI\obj\Debug\net7.0\ref\Airbnb.API.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.exe
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.deps.json
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.runtimeconfig.json
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.pdb
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\AirbnbBL.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\AirbnbDAL.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\AirbnbBL.pdb
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\AirbnbDAL.pdb
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.AssemblyReference.cache
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.AssemblyInfoInputs.cache
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.AssemblyInfo.cs
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.CoreCompileInputs.cache
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.Airbnb.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.Airbnb.API.props
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Airbnb.API.props
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Airbnb.API.props
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\scopedcss\bundle\Airbnb.API.styles.css
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.CopyComplete
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\refint\Airbnb.API.dll
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.pdb
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.genruntimeconfig.cache
+C:\Users\Amr\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\ref\Airbnb.API.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\refint\Airbnb.API.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.pdb
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.exe
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.deps.json
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.pdb
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\AirbnbBL.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\AirbnbDAL.dll
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\AirbnbBL.pdb
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\bin\Debug\net7.0\AirbnbDAL.pdb
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.Airbnb.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.Airbnb.API.props
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Airbnb.API.props
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Airbnb.API.props
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\scopedcss\bundle\Airbnb.API.styles.css
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.CopyComplete
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\AirbnbClone\AirbnbAPI\obj\Debug\net7.0\ref\Airbnb.API.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\appsettings.Development.json
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\appsettings.json
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.exe
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.deps.json
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.runtimeconfig.json
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.pdb
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Azure.Core.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Azure.Identity.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Humanizer.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\System.CodeDom.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\AirbnbBL.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\AirbnbDAL.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\AirbnbBL.pdb
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\AirbnbDAL.pdb
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.AssemblyReference.cache
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.AssemblyInfoInputs.cache
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.AssemblyInfo.cs
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.CoreCompileInputs.cache
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.Airbnb.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.Airbnb.API.props
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Airbnb.API.props
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Airbnb.API.props
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\staticwebassets.build.json
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\staticwebassets.development.json
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\scopedcss\bundle\Airbnb.API.styles.css
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.CopyComplete
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\refint\Airbnb.API.dll
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.pdb
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.genruntimeconfig.cache
+E:\Trainings\Projects\ON_Projects\New folder\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\ref\Airbnb.API.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\appsettings.Development.json
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\appsettings.json
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.exe
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.deps.json
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.runtimeconfig.json
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Airbnb.API.pdb
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Azure.Core.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Azure.Identity.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Humanizer.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\System.CodeDom.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\AirbnbBL.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\AirbnbDAL.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\AirbnbBL.pdb
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\bin\Debug\net7.0\AirbnbDAL.pdb
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.AssemblyReference.cache
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.AssemblyInfoInputs.cache
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.AssemblyInfo.cs
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.CoreCompileInputs.cache
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.Airbnb.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.Airbnb.API.props
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Airbnb.API.props
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Airbnb.API.props
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\staticwebassets.build.json
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\staticwebassets.development.json
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\scopedcss\bundle\Airbnb.API.styles.css
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.csproj.CopyComplete
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\refint\Airbnb.API.dll
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.pdb
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\Airbnb.API.genruntimeconfig.cache
+E:\Trainings\Projects\ON_Projects\AirbnbAPI\AirbnbAPI\obj\Debug\net7.0\ref\Airbnb.API.dll

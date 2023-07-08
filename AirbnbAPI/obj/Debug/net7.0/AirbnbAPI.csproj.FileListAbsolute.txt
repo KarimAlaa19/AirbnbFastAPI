@@ -1,0 +1,7 @@
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\obj\Debug\net7.0\AirbnbAPI.csproj.AssemblyReference.cache
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\obj\Debug\net7.0\AirbnbAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\obj\Debug\net7.0\AirbnbAPI.AssemblyInfoInputs.cache
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\obj\Debug\net7.0\AirbnbAPI.AssemblyInfo.cs
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\obj\Debug\net7.0\AirbnbAPI.csproj.CoreCompileInputs.cache
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\obj\Debug\net7.0\AirbnbAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Trainings\Projects\ON_Projects\.NetGraduationProject\final-project\AirbnbAPI\obj\Debug\net7.0\AirbnbAPI.MvcApplicationPartsAssemblyInfo.cache
