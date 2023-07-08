@@ -47,7 +47,6 @@ namespace AirbnbBL
                 {
                     ImageId = image.ImageId,
                     Source = image.Source,
-                    RoomId = image.RoomId
                 });
             }
 

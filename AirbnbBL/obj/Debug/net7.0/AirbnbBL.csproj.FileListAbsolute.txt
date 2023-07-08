@@ -231,3 +231,10 @@ E:\Trainings\Projects\ON_Projects\FastVersion\AirbnbFastAPI\AirbnbBL\obj\Debug\n
 E:\Trainings\Projects\ON_Projects\FastVersion\AirbnbFastAPI\AirbnbBL\obj\Debug\net7.0\AirbnbBL.dll
 E:\Trainings\Projects\ON_Projects\FastVersion\AirbnbFastAPI\AirbnbBL\obj\Debug\net7.0\refint\AirbnbBL.dll
 E:\Trainings\Projects\ON_Projects\FastVersion\AirbnbFastAPI\AirbnbBL\obj\Debug\net7.0\AirbnbBL.pdb
+E:\Trainings\Projects\ON_Projects\FastVersion\AirbnbFastAPI\AirbnbBL\bin\Debug\net7.0\AirbnbBL.deps.json
+E:\Trainings\Projects\ON_Projects\FastVersion\AirbnbFastAPI\AirbnbBL\bin\Debug\net7.0\AirbnbBL.dll
+E:\Trainings\Projects\ON_Projects\FastVersion\AirbnbFastAPI\AirbnbBL\bin\Debug\net7.0\AirbnbBL.pdb
+E:\Trainings\Projects\ON_Projects\FastVersion\AirbnbFastAPI\AirbnbBL\bin\Debug\net7.0\AirbnbDAL.dll
+E:\Trainings\Projects\ON_Projects\FastVersion\AirbnbFastAPI\AirbnbBL\bin\Debug\net7.0\AirbnbDAL.pdb
+E:\Trainings\Projects\ON_Projects\FastVersion\AirbnbFastAPI\AirbnbBL\obj\Debug\net7.0\AirbnbBL.csproj.CopyComplete
+E:\Trainings\Projects\ON_Projects\FastVersion\AirbnbFastAPI\AirbnbBL\obj\Debug\net7.0\ref\AirbnbBL.dll

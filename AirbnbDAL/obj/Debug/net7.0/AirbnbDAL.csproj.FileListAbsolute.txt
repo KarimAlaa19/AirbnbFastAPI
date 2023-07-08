@@ -216,3 +216,9 @@ E:\Trainings\Projects\ON_Projects\FastVersion\AirbnbFastAPI\AirbnbDAL\obj\Debug\
 E:\Trainings\Projects\ON_Projects\FastVersion\AirbnbFastAPI\AirbnbDAL\obj\Debug\net7.0\AirbnbDAL.dll
 E:\Trainings\Projects\ON_Projects\FastVersion\AirbnbFastAPI\AirbnbDAL\obj\Debug\net7.0\refint\AirbnbDAL.dll
 E:\Trainings\Projects\ON_Projects\FastVersion\AirbnbFastAPI\AirbnbDAL\obj\Debug\net7.0\AirbnbDAL.pdb
+E:\Trainings\Projects\ON_Projects\FastVersion\AirbnbFastAPI\AirbnbDAL\bin\Debug\net7.0\AirbnbDAL.deps.json
+E:\Trainings\Projects\ON_Projects\FastVersion\AirbnbFastAPI\AirbnbDAL\bin\Debug\net7.0\AirbnbDAL.runtimeconfig.json
+E:\Trainings\Projects\ON_Projects\FastVersion\AirbnbFastAPI\AirbnbDAL\bin\Debug\net7.0\AirbnbDAL.dll
+E:\Trainings\Projects\ON_Projects\FastVersion\AirbnbFastAPI\AirbnbDAL\bin\Debug\net7.0\AirbnbDAL.pdb
+E:\Trainings\Projects\ON_Projects\FastVersion\AirbnbFastAPI\AirbnbDAL\obj\Debug\net7.0\AirbnbDAL.genruntimeconfig.cache
+E:\Trainings\Projects\ON_Projects\FastVersion\AirbnbFastAPI\AirbnbDAL\obj\Debug\net7.0\ref\AirbnbDAL.dll

@@ -14,7 +14,7 @@ namespace AirbnbBL
         private readonly IUnitOfWork _unitOfWork;
         private readonly IImageManager _imageManager;
 
-        public PropertyManager(IUnitOfWork unitOfWork,ImageManager imgManage)
+        public PropertyManager(IUnitOfWork unitOfWork,IImageManager imgManage)
         {
             _unitOfWork = unitOfWork;
             _imageManager = imgManage;
@@ -149,7 +149,8 @@ namespace AirbnbBL
                 PropertyType = p.PropertyType,
                 PricePerNight = p.PricePerNight,
                 Address = $"{p.City.CityName}, {p.Country.CountryName}",
-                Rating = p.Rating
+                Rating = p.Rating,
+                Images = p.Images.Select(i => i.Source)
             });
         }
 

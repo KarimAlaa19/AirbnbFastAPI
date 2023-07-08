@@ -20,8 +20,7 @@ namespace AirbnbDAL
             var queries = _context.Properties
                 .Include(p => p.City)
                 .Include(p => p.Country)
-                .Include(p => p.Rooms)
-                    .ThenInclude(r => r.Images)
+                .Include(r => r.Images)
                 .Include(p => p.Reservations)
                  .AsQueryable();
 
@@ -41,13 +40,13 @@ namespace AirbnbDAL
                 queries = queries.Where((Property p) => p.GuestNumber >= filter.GuestsNumber);
 
             if (filter.BedsNumber is not null)
-                queries = queries.Where(p => p.Rooms.Sum(r => r.NumberOfBeds) >= filter.BedsNumber);
+                queries = queries.Where(p => p.NumberOfBeds >= filter.BedsNumber);
 
             if (filter.BedroomsNumber is not null)
-                queries = queries.Where(p => p.Rooms.Where(r => r.RoomType == RoomType.Bedroom.ToString()).Count() >= filter.BedroomsNumber);
+                queries = queries.Where(p => p.NumberOfBedRooms >= filter.BedroomsNumber);
 
             if (filter.BathroomsNumber is not null)
-                queries = queries.Where(p => p.Rooms.Where(r => r.RoomType == RoomType.Bathroom.ToString()).Count() >= filter.BathroomsNumber);
+                queries = queries.Where(p => p.NumberOfBathrooms >= filter.BathroomsNumber);
 
 
             if (filter.City is not null)
@@ -80,8 +79,7 @@ namespace AirbnbDAL
             return _context.Set<Property>()
                 .Include(p => p.City)
                 .Include(p => p.Country)
-                .Include(p => p.Rooms)
-                    .ThenInclude(r => r.Images);
+                .Include(r => r.Images);
         }
 
         public Property GetPropertyByWithData(Guid id)
@@ -91,8 +89,7 @@ namespace AirbnbDAL
                 .Where(p => p.PropertyId == id)
                 .Include(p => p.User)
                 .Include(p => p.PropertyRules)
-                .Include(p => p.Rooms)
-                    .ThenInclude(r => r.Images)
+                .Include(r => r.Images)
                 .Include(p => p.Country)
                 .Include(p => p.City)
                 .First(p => p.PropertyId == id);
