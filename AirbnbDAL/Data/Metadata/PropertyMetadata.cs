@@ -32,6 +32,10 @@ namespace AirbnbDAL
         [Range(0, 5)]
         public double Rating { get; set; }
 
+        public int NumberOfBeds { get; set; }
+        public int NumberOfBedRooms { get; set; }
+        public int NumberOfBathrooms { get; set; }
+
 
     }
 }

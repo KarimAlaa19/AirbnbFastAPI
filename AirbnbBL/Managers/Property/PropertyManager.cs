@@ -35,8 +35,10 @@ namespace AirbnbBL
                 GuestNumber = propAddDto.GuestNumber,
                 Longitude = propAddDto.Longitude,
                 Latitude = propAddDto.Latitude,
-                HostId = propAddDto.HostId
-
+                HostId = propAddDto.HostId,
+                NumberOfBathrooms = propAddDto.NumberOfBathrooms,
+                NumberOfBedRooms = propAddDto.NumberOfBedRooms,
+                NumberOfBeds = propAddDto.NumberOfBeds
             };
 
             property.PropertyAmenities = propAddDto.PropertyAmenities.Select(a => new PropertyAmenity
@@ -132,7 +134,10 @@ namespace AirbnbBL
                     Name = property.User.Name,
                     ProfilePicture = property.User.ProfilePicture
                 },
-                Images = property.Images.Select(i => i.Source)
+                Images = property.Images.Select(i => i.Source),
+                NumberOfBathrooms = property.NumberOfBathrooms,
+                NumberOfBedRooms = property.NumberOfBedRooms,
+                NumberOfBeds = property.NumberOfBeds
             };
         }
 

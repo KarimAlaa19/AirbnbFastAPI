@@ -24,6 +24,9 @@ namespace AirbnbBL
         public string? Longitude { get; set; }
         public string? Latitude { get; set; }
         public string? HostId { get; set; }
+        public int NumberOfBeds { get; set; }
+        public int NumberOfBedRooms { get; set; }
+        public int NumberOfBathrooms { get; set; }
         public IEnumerable<string> Images { get; set; } = new HashSet<string>();
         public IEnumerable<Guid> PropertyRules { get; set; } = new HashSet<Guid>();
         public IEnumerable<Guid> PropertyAmenities { get; set; } = new HashSet<Guid>();

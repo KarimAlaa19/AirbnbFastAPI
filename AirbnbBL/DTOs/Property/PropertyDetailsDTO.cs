@@ -19,6 +19,9 @@ namespace AirbnbBL.DTOs.Property
         public string? Description { get; set; }
         public string? Street { get; set; }
         public double Rating { get; set; } = 0;
+        public int NumberOfBeds { get; set; }
+        public int NumberOfBedRooms { get; set; }
+        public int NumberOfBathrooms { get; set; }
 
 
         public GetUserMinimalDTO? Host { get; set; }
